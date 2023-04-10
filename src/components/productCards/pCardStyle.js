@@ -6,7 +6,6 @@ export default StyleSheet.create({
     flex: 1,
     borderRadius: 5,
     backgroundColor: '#ECEFF1',
-    s,
   },
 
   imgcontainer: {
